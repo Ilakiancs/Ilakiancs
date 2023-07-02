@@ -7,8 +7,10 @@ I'm Ilakian, a passionate programmer who loves diving into the world of coding. 
 - HTML
 - CSS
 - JavaScript
+- Python
 - SQL (basics)
 - React Native
+- SOQL (Salesforce Object Query Language)
 - Apex (Salesforce)
 
 ## Achievements:

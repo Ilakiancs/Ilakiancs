@@ -7,6 +7,9 @@ I'm Ilakian, a passionate programmer who loves diving into the world of coding. 
 - HTML
 - CSS
 - JavaScript
+- Tailwind CSS
+- Laravel
+- PHP
 - Python
 - SQL (basics)
 - React Native

@@ -8,8 +8,8 @@ I'm Ilakian, a passionate programmer who loves diving into the world of coding. 
 - CSS
 - JavaScript
 - Tailwind CSS
-- Laravel
-- PHP
+- Laravel(basic)
+- PHP(basic)
 - Python
 - SQL (basics)
 - React Native

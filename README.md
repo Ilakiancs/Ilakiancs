@@ -18,3 +18,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilakiancs&show_icons=true&locale=en&layout=compact" alt="ilakiancs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilakiancs&show_icons=true&locale=en" alt="ilakiancs" /></p>
+
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+

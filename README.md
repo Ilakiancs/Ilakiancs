@@ -1,25 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=500&height=30&lines=Welcome+to+My+Profile!;I'm+Ilakian+Puvanendra;SWE+Intern+•+Salesforce+Certified+Associate" alt="Typing SVG" />
-  </a>
-</div> 
-
----
-
-<details open>
-  <summary align="center"><h2> About Me </h2></summary>
-  <p align="center"> I am a passionate programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves solving problems and building innovative solutions.</p>
-  <ul>
-    <li>SWE Intern & Salesforce Certified Associate</li>
-    <li>Cloud, DevOps, and Full-Stack Development</li>
-    <li>AI/ML enthusiast, like to learn new tools</li>
-    <li>Creating scalable and efficient solutions</li>
-  </ul>
-</details>
-
----
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:333333,100:000000&text=Ilakian%20Puvanendra&fontColor=FFFFFF&textBg=false" alt="hey, i'm ilakian"/>
+</div>
 
 <details open>
   <summary align="center"><h2> Connect with me </h2></summary>

@@ -129,6 +129,7 @@
   </picture>
 </div>
 
+*Note: gitea-integaration-kimai was developed offline while experimenting with the gitea–kimai integration. Frequent incremental commits were made locally and pushed in a single batch.*
 
 <div align="center">
   <a href="https://git.io/typing-svg">

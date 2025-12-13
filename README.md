@@ -129,8 +129,6 @@
   </picture>
 </div>
 
-*Note: gitea-integaration-kimai was developed offline while experimenting with the gitea–kimai integration. Frequent incremental commits were made locally and pushed in a single batch.*
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=84C2C0&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting!;Come+back+soon!;Have+a+great+day!" alt="Typing SVG" />
@@ -138,3 +136,6 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
+
+*Note: gitea-integaration-kimai was developed offline while experimenting with the gitea–kimai integration. Frequent incremental commits were made locally and pushed in a single batch.*
+

@@ -134,5 +134,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
-*Note: gitea-integaration-kimai was developed offline while experimenting with the gitea–kimai integration. Frequent incremental commits were made locally and pushed in a single batch.*
+*Note: gitea-kimai-integration was developed offline while experimenting with the gitea–kimai integration. Frequent incremental commits were made locally and pushed in a single batch.*
 

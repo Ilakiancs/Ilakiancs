@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:333333,100:000000&text=Ilakian%20Puvanendra&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=Site%20reliability%20%C2%B7%20Applied%20AI%20%C2%B7%20Full-stack&descSize=18&descAlignY=62" alt="Ilakian Puvanendra"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=84C2C0&center=true&vCenter=true&width=560&height=30&lines=SRE+intern+at+Sysco+LABS;Fine-tuned+Gemma+4+for+offline+classrooms;Shipping+AI+products+end+to+end" alt="SRE intern at Sysco LABS · Fine-tuned Gemma 4 for offline classrooms · Shipping AI products end to end"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=84C2C0&center=true&vCenter=true&width=700&height=30&lines=SRE+intern+at+Sysco+LABS;Fine-tuned+Gemma+4+for+offline+classrooms;Shipping+AI+products+end+to+end" alt="SRE intern at Sysco LABS · Fine-tuned Gemma 4 for offline classrooms · Shipping AI products end to end"/>
   </a>
 
   <p>
@@ -90,13 +90,13 @@ Most recently I built **[OptiLearn](https://github.com/Ilakiancs/OptiLearn)** fo
     <td>
       <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
       <br/>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-      <img src="https://img.shields.io/badge/Unsloth-0B9E6F?style=flat-square" alt="Unsloth"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-      <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemma"/>
-      <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/Unsloth-0B9E6F?style=for-the-badge" alt="Unsloth"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/Ollama-2B2B2B?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemma"/>
+      <img src="https://img.shields.io/badge/MCP-2B2B2B?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
     </td>
   </tr>
   <tr>
